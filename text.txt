@@ -1,0 +1,19 @@
+How can I create and configure an AWS EC2 instance using Ansible? I need to set up a basic EC2 instance with the following specifications:
+ Create your own vpc
+ Region: eu-west-1
+ Instance Type: t2.micro
+ AMI ID: A latest Amazon Linux 2 AMI (AMI ID may vary based on the region)
+ Security Group: A security group allowing SSH (port 22) and HTTP (port 80) access
+ Key Pair: Use an existing key pair named MyKeyPair
+Additionally, I would like to install and start a web server (Apache or Nginx) on this instance once it is up and running.
+
+
+
+create and configure an AWS EC2 instance using Ansible, I need you to set up a basic EC2 instance with the following specifications:
+ Create your own vpc
+ Region: eu-west-1
+ Instance Type: t2.micro
+ AMI ID: A latest Amazon Linux 2 AMI (AMI ID may vary based on the region)
+ Security Group: A security group allowing SSH (port 22) and HTTP (port 80) access
+ Key Pair: Use an existing key pair named MyKeyPair
+Additionally, I would like you to install and start a web server (Apache and Nginx) on this instance once it is up and running.
